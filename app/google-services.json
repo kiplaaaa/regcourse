@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940526247711",
+    "project_id": "regcourse-e5b27",
+    "storage_bucket": "regcourse-e5b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940526247711:android:3ae276c64f3668b0de5a2a",
+        "android_client_info": {
+          "package_name": "com.example.regcourse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAjpq2wtv7G7GCsnNuqHz2A95d7tKvwfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
